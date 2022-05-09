@@ -6,6 +6,10 @@
   display: flex;
 }
 
+
+
+
+
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
@@ -14,11 +18,8 @@
 		
 		@media screen and (max-width: 600px) {
   .column {
-    width: 75%;
+    width: 50%;
   }
 }
-
-
-
 
 
